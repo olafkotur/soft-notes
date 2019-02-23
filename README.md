@@ -1,6 +1,6 @@
 # Software Engineering
 
-These notes are exported as `.html` in Evernote so the formatting may be a little off. These are simply class notes that I'm making during lectures. If they help in any way, that's great.
+These notes are exported as `.html` in Google Docs (Year 1) and Evernote (Year 2) so the formatting may be a little off. These are simply class notes that I'm making during lectures. If they help in any way, that's great.
 
 ## Year 1 Modules
 * Software Development
