@@ -15,7 +15,9 @@ These notes are exported as `.html` in Google Docs (Year 1) and Evernote (Year 2
 * Human-Computer Interaction
 * Computer Networks
 * Software Design
+* Issues in Computing
 * Operating Systems
 * Advanced Programming 
+* Software Engineering Project I
 
 `There's a few modules I did not take notes for due to their nature`
